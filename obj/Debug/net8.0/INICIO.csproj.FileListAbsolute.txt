@@ -1,0 +1,14 @@
+C:\Users\T-GAMER\Desktop\Dev\dotnet\INICIO\obj\Debug\net8.0\INICIO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\T-GAMER\Desktop\Dev\dotnet\INICIO\obj\Debug\net8.0\INICIO.AssemblyInfoInputs.cache
+C:\Users\T-GAMER\Desktop\Dev\dotnet\INICIO\obj\Debug\net8.0\INICIO.AssemblyInfo.cs
+C:\Users\T-GAMER\Desktop\Dev\dotnet\INICIO\obj\Debug\net8.0\INICIO.csproj.CoreCompileInputs.cache
+C:\Users\T-GAMER\Desktop\Dev\dotnet\INICIO\bin\Debug\net8.0\INICIO.exe
+C:\Users\T-GAMER\Desktop\Dev\dotnet\INICIO\bin\Debug\net8.0\INICIO.deps.json
+C:\Users\T-GAMER\Desktop\Dev\dotnet\INICIO\bin\Debug\net8.0\INICIO.runtimeconfig.json
+C:\Users\T-GAMER\Desktop\Dev\dotnet\INICIO\bin\Debug\net8.0\INICIO.dll
+C:\Users\T-GAMER\Desktop\Dev\dotnet\INICIO\bin\Debug\net8.0\INICIO.pdb
+C:\Users\T-GAMER\Desktop\Dev\dotnet\INICIO\obj\Debug\net8.0\INICIO.dll
+C:\Users\T-GAMER\Desktop\Dev\dotnet\INICIO\obj\Debug\net8.0\refint\INICIO.dll
+C:\Users\T-GAMER\Desktop\Dev\dotnet\INICIO\obj\Debug\net8.0\INICIO.pdb
+C:\Users\T-GAMER\Desktop\Dev\dotnet\INICIO\obj\Debug\net8.0\INICIO.genruntimeconfig.cache
+C:\Users\T-GAMER\Desktop\Dev\dotnet\INICIO\obj\Debug\net8.0\ref\INICIO.dll
